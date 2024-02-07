@@ -2,7 +2,7 @@
 <h3 align="center">A passionate italian web developer 💻🤌🏼</h3>
 
 <p align="center">- 👨‍💻 All of my projects are available at <a href="https://portfolio-gianninifederico.netlify.app/">https://portfolio-gianninifederico.netlify.app/</a></p>
-<p align="center">- 📫 How to reach me <strong>fgiannini95@gmail.com</strong></p>
+<p align="center">- 📫 How to reach me <strong>[fgiannini95@gmail.com]</strong></p>
 <p align="center">- 📄 Know about my experiences <a href="https://www.figma.com/file/mCgu9irKp3v7HsFUP52LsT/CV-FedericoGiannini?type=design&mode=design&t=GUfx4EttEuYs3NVi-0">CV-FedericoGiannini</a></p>
 
 <h3 align="center">Connect with me:</h3>
