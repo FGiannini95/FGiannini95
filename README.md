@@ -1,6 +1,4 @@
-### Hi, I am Federico, a Full Stack Web Developer 👋
-# Federico Giannini
-## Full Stack Developer at Centro
+# Hi my name is Federico Giannini and I am a Full Stack Web Developer 👋
 
 ![Banner](https://example.com/your-banner.jpg)
 
@@ -13,18 +11,19 @@
 ### Technologies I work with:
 
 - HTML
-- CSS
+- CSS3
 - JavaScript
 - React
 - Node.js
-- Express
-- MongoDB
+- MySQL
+- Figma
 
 ### About Me:
 
-I'm Federico Giannini, a passionate Full Stack Developer with experience in building web applications using a variety of technologies. I specialize in front-end and back-end development, with a strong focus on creating efficient and user-friendly interfaces. I thrive in collaborative environments where I can contribute my skills to create impactful software solutions.
+I'm Federico Giannini, a passionate Full Stack Developer with experience in building web applications using a variety of technologies. I specialize in front-end and back-end development, with a strong focus on creating efficient and user-friendly interfaces. I am looking for a collaborative environments where I can contribute wth my skills to create impactful software solutions.
 
-Feel free to reach out to me through my social media profiles or via email at [your@email.com].
+Feel free to reach out to me through my social media profiles or via email at [fgiannini95@gmail.com].
+
 
 
 <!--
