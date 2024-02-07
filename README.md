@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/federico-giannini95/)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/your-twitter-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/your-github-profile)
 
