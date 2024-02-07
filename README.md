@@ -6,9 +6,8 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/your-twitter-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/your-github-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-green)](https://www.linkedin.com/in/federico-giannini95/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/FGiannini95)
 
 </div>
 
@@ -19,8 +18,8 @@
 | Frontend          | Backend         |
 |-------------------|-----------------|
 | HTML              | Node.js         |
-| CSS               | Express         |
-| JavaScript        | MongoDB         |
+| CSS3              | Express         |
+| JavaScript        | MySQl           |
 | React             |                 |
 
 </div>
