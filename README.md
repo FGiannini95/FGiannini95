@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">A passionate italian web developer 💻🤌🏼</h3>
 
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwarisradji.com%2F2019%2F10%2F31%2Fhello%2F&psig=AOvVaw0m1yksZVrRTM0irlWQ3FqH&ust=1707484097146000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi5gYrom4QDFQAAAAAdAAAAABAJ)" alt="javascript" width="100%" height="100%"/>
+<img src="[https://warisradji.com/images/thumbnails/hello-world.png]" alt="helloWorld" width="100%" height="100%"/>
 
 <p align="center">- 👨‍💻 All of my projects are available at <a href="https://portfolio-gianninifederico.netlify.app/">https://portfolio-gianninifederico.netlify.app/</a></p>
 <p align="center">- 📫 How to reach me: <strong> fgiannini95@gmail.com</strong></p>
