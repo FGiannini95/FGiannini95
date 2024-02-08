@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">A passionate italian web developer 💻🤌🏼</h3>
 
-![Banner](https://warisradji.com/images/thumbnails/hello-world.png)
+![Banner](https://github.com/FGiannini95/FGiannini95/blob/main/hellou.jpeg)
 
 <p align="center">- 👨‍💻 All of my projects are available at <a href="https://portfolio-gianninifederico.netlify.app/">https://portfolio-gianninifederico.netlify.app/</a></p>
 <p align="center">- 📫 How to reach me: <strong> fgiannini95@gmail.com</strong></p>
