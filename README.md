@@ -30,3 +30,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fgiannini95&show_icons=true&locale=en&layout=compact" alt="fgiannini95" /></p>
