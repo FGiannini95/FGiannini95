@@ -1,4 +1,4 @@
-<div style="background-color: #00FF00; padding: 20px;">
+<div style="background-color: #green; padding: 20px;">
 # Hi 👋, I'm Federico
 ## A passionate italian web developer 💻🤌🏼
 
