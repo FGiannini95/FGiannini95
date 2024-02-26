@@ -1,3 +1,4 @@
+<div style="background-color: #00FF00; padding: 20px;">
 # Hi 👋, I'm Federico
 ## A passionate italian web developer 💻🤌🏼
 
@@ -37,3 +38,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fgiannini95&show_icons=true&locale=en&layout=compact" alt="fgiannini95" />
 </p>
+</div>
