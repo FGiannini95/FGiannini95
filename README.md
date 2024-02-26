@@ -10,11 +10,9 @@
 - 📄 Know about my experiences [CV-FedericoGiannini](https://www.figma.com/file/mCgu9irKp3v7HsFUP52LsT/CV-FedericoGiannini?type=design&mode=design&t=GUfx4EttEuYs3NVi-0)
 
 ### Connect with me:
-<p align="center">
   <a href="https://www.linkedin.com/in/federico-giannini95/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico giannini" height="30" width="40" />
   </a>
-</p>
 
 ### Languages and Tools:
 <p align="center">
